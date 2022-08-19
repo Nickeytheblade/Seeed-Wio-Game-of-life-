@@ -5,6 +5,8 @@
 Implementation was tested in CircuitPython 5.2 on:
 * PewPew M4 https://www.makerfabs.com/circuitpython-pewpew-m4.html
 * Adafruit PyBadge LC https://www.adafruit.com/product/3939
+* Seeed Wio Terminal https://www.seeedstudio.com/Wio-Terminal-p-4509.html
+
 
 ![Pew Pew M4](/images/pewpewm4_gol.jpg)
 
